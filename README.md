@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katonof, and I'm new at github. I graduated in statistics and work with data analysis since 2017. I can work with SQL, PowerBI and excel. But now I'm trying to improve my skills.
+- 👋 Hi, I’m Katon, and I'm new at github. I have studied statistics and work with data analysis since 2010. I can work with SQL, PowerBI and excel. But now I'm trying to improve my skills.
 
 - 👀 I’m interested in data science, big data, dashboards, and everything about data.
 - 🌱 I’m currently learning java and python. But I already know SQL.
